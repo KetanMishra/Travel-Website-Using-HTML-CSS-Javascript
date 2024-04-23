@@ -1,3 +1,6 @@
+![Screenshot (134)](https://github.com/shivendra9838/Travel-Website-Using-HTML-CSS-Javascript/assets/117919870/f896e9ad-e3af-48c1-8a0c-16de0618d2c7)
+![Screenshot (139)](https://github.com/shivendra9838/Travel-Website-Using-HTML-CSS-Javascript/assets/117919870/44268393-5afd-4ad4-9aaf-93ee243d83b5)
+![Screenshot (147)](https://github.com/shivendra9838/Travel-Website-Using-HTML-CSS-Javascript/assets/117919870/68ac85ec-9322-437a-91b7-ef804b01c712)
 # Every Holiday-Plan ( Travel Agency Website )
 
 Welcome to Travel Website, a web application built using HTML, CSS, and JavaScript. This project aims to create a cooperative platform that bridges people together. Below, you will find information about the project, its frontend pages, backend server, and how to access the live version deployed on Netlify.
