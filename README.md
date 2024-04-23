@@ -61,11 +61,7 @@ The backend server provides the necessary data and functionality for the Coopera
 
 3. `/testimonials`: Interact with this endpoint to access and manage user feedback and testimonials.
 
-## Deployment
 
-The live version of Cooperative Bridge 6636 is deployed on Netlify. You can access the application through the following link:
-
-**Netlify Link**: [https://sparkly-salamander-87a5f4.netlify.app/]
 
 Feel free to explore the features of Cooperative Bridge 6636. If you encounter any issues or have any feedback, you can use the "Feedback" page to share your thoughts with us.
 
